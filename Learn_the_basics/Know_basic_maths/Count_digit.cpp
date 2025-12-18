@@ -11,7 +11,6 @@ int main(){
     while (num!=0){
         num=num/10;
         count+=1;
-
     }
     cout<<count;
     return 0;
